@@ -11,7 +11,7 @@ You can reach out to me at: [12rashic@gmail.com](mailto:12rashic@gmail.com)
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23F8C8D8.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rashi%20Chaubal)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23F8C8D8.svg?logo=Instagram&logoColor=white)](https://www.linkedin.com/in/12rashic/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23A2D9FF.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rashi%20Chaubal)
 
 ---
