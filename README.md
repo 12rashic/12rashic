@@ -1,3 +1,4 @@
+
 # 💫 About Me:
 👋 **Hi, I'm Rashi!**  
 A passionate **DevOps Engineer** at **InfraCloud Technologies** 🚀, primarily collaborating with **Loft Labs** 💻 on **vClusters**.  
@@ -9,29 +10,14 @@ You can reach out to me at: [12rashic@gmail.com](mailto:12rashic@gmail.com)
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rashi%20Chaubal)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rashi%20Chaubal)
+[![Instagram](https://img.shields.io/badge/Instagram-%23F8C8D8.svg?logo=Instagram&logoColor=white)](https://instagram.com/Rashi%20Chaubal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23A2D9FF.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rashi%20Chaubal)
 
 ---
 
 # 💻 Tech Stack:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![vCluster](https://img.shields.io/badge/vCluster-%23A300D6.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Cloud Native](https://img.shields.io/badge/Cloud%20Native-%2300B7D3.svg?style=for-the-badge&logo=cloudsmith&logoColor=white)  
-![Kyverno](https://img.shields.io/badge/Kyverno-%23007A8C.svg?style=for-the-badge&logo=kyverno&logoColor=white)  
-![Kyverno JSON](https://img.shields.io/badge/Kyverno%20JSON-%23007A8C.svg?style=for-the-badge&logo=kyverno&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23F8C8D8.svg?style=for-the-badge&logo=docker&logoColor=white)![Go](https://img.shields.io/badge/go-%23A8E6CF.svg?style=for-the-badge&logo=go&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23F7E29A.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)![Kubernetes](https://img.shields.io/badge/kubernetes-%23A2D9FF.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![vCluster](https://img.shields.io/badge/vCluster-%23D8AAD8.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Cloud Native](https://img.shields.io/badge/Cloud%20Native-%23A8E6CF.svg?style=for-the-badge&logo=cloudsmith&logoColor=white)![Kyverno](https://img.shields.io/badge/Kyverno-%23F1E0B7.svg?style=for-the-badge&logo=kyverno&logoColor=white)![Kyverno JSON](https://img.shields.io/badge/Kyverno%20JSON-%23F1E0B7.svg?style=for-the-badge&logo=kyverno&logoColor=white)
 
 ---
 
