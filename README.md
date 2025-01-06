@@ -6,6 +6,7 @@ I am a **technical blogger** 🔎, **public tech speaker** 💡, and an **open-s
 Based in **India** 🌎.  
 🌟 Always eager to collaborate on innovative tech projects and contribute to impactful initiatives 💻🤝✨  
 You can reach out to me at: [12rashic@gmail.com](mailto:12rashic@gmail.com)
+🌱 Currently contributing to CNCF Projects 
 
 ---
 
@@ -29,7 +30,7 @@ You can reach out to me at: [12rashic@gmail.com](mailto:12rashic@gmail.com)
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=12rashic&theme=onestar&no-frame=false&no-bg=true&margin-w=4&column=6&row=1&title=Multi%20Repo%20Stars&title-color=%23F8C8D8&rank=-1&rank-color=%23A2D9FF&symbol=star%20%F0%9F%8E%9A)
+![](https://github-profile-trophy.vercel.app/?username=12rashic&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 ---
 
@@ -40,4 +41,4 @@ You can reach out to me at: [12rashic@gmail.com](mailto:12rashic@gmail.com)
 
 [![](https://visitcount.itsvg.in/api?id=12rashic&icon=0&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
