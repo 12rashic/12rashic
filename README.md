@@ -29,7 +29,7 @@ You can reach out to me at: [12rashic@gmail.com](mailto:12rashic@gmail.com)
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=12rashic&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=12rashic&theme=onestar&no-frame=false&no-bg=true&margin-w=4&column=6&row=1&title=Multi%20Repo%20Stars&title-color=%23F8C8D8&rank=-1&rank-color=%23A2D9FF&symbol=star%20%F0%9F%8E%9A)
 
 ---
 
