@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 👋 **Hi, I'm Rashi!**  
-A passionate **DevOps Engineer** at **InfraCloud Technologies** 🚀, primarily collaborating with **Loft Labs** 💻 on **vClusters**.  
+A passionate **DevOps Engineer** at **InfraCloud Technologies** 🚀 💻 .
 I am a **technical blogger** 🔎, **public tech speaker** 💡, and an **open-source contributor** 💡.  
 Based in **India** 🌎.  
 🌟 Always eager to collaborate on innovative tech projects and contribute to impactful initiatives 💻🤝✨  
